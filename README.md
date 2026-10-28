@@ -1,6 +1,8 @@
 # Pfsense
 # pfSense Firewall Labs
 
+**PLEASE NOTE : OPEN FILE COMMIT DETAILS IN ORDER TO SEE A DETAILED DESCRIPTION OF EACH FILE**
+
 ## Overview
 This repository documents my hands-on learning and practical labs using **pfSense**, an open-source firewall and router platform. The goal is to develop practical skills in network security, firewall administration, and network traffic control.
 
